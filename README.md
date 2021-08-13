@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kori Reine, I am currently a computer Science Cybersecurity student at Loyola University New Orleans.
+My name is Kori Reine, I am currently a Computer Science Cybersecurity student at Loyola University New Orleans.
 
 <!--
 **kkreine/kkreine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
