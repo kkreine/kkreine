@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-My name is Kori Reine, I am currently a Computer Science student at Loyola University New Orleans.
+My name is Kori Reine, I am currently a Computer Science student at Loyola University New Orleans graduating May 2022.
+
+📫 How to reach me: kori.kreine@gmail.com
+🌱 I’m currently learning Ruby on Rails
+🔭 I’m currently working on creating a to do list application
+✨ I'm in search of a software development internship
+⚡ Fun fact: I love plants and gardening
+😄 Pronouns: she/her
 
 <!--
 **kkreine/kkreine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
