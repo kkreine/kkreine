@@ -4,7 +4,7 @@ My name is Kori Reine, a Computer Science student at Loyola University New Orlea
 
 📫 How to reach me: kori.kreine@gmail.com  
 🌱 I’m currently learning Ruby on Rails  
-🔭 I’m currently working on a planner application  
+🔭 I’m currently working on a RoR planner application  
 ✨ I'm in search of a software development internship  
 ⚡ Fun fact: I'm an avid gardener  
 😄 Pronouns: she/her
