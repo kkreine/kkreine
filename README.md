@@ -6,13 +6,14 @@ My name is Kori Reine, I'm a Computer Science student at Loyola University New O
 🌱 I’m currently learning Ruby on Rails  
 🔭 I’m currently working on a RoR planner application  
 ✨ I'm in search of a software development position  
-⚡ Fun fact: I'm an avid gardener  
 😄 Pronouns: she/her
 
 <!--
 **kkreine/kkreine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+⚡ Fun fact: I'm an avid gardener  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
