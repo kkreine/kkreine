@@ -4,8 +4,8 @@ My name is Kori Reine, I'm a Computer Science student at Loyola University New O
 
 📫 How to reach me: kori.kreine@gmail.com  
 🌱 I’m currently learning Ruby on Rails  
-🔭 I’m currently working on a RoR planner application  
-✨ I'm in search of a software development position  
+🔭 I'm in search of a software development position  
+✨ I’m currently working on a RoR planner application   
 😄 Pronouns: she/her
 
 <!--
