@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi y'all 👋
 
 My name is Kori Reine, I'm a Computer Science student at Loyola University New Orleans graduating May 2022.  
 
