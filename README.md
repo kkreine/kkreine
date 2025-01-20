@@ -1,6 +1,6 @@
 ### Hi y'all 👋
 
-📫 How to reach me: kori.kreine@gmail.com or @kori-k:matrix.org
+📫 How to reach me: kori.kreine@gmail.com
 
 
 <!--
