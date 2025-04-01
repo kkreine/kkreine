@@ -1,6 +1,6 @@
 ### Hi y'all 👋
 
-📫 How to reach me: kori.kreine@gmail.com
+📫 How to reach me: kkr.reine@gmail.com
 
 
 <!--
